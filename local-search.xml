@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>贪心二</title>
+    <link href="/2025/06/29/%E8%B4%AA%E5%BF%83%E4%BA%8C/"/>
+    <url>/2025/06/29/%E8%B4%AA%E5%BF%83%E4%BA%8C/</url>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;主包也是考完了，回来做点笔记。<br>&emsp;&emsp;上次讲到贪心的概念，这次讲点别的。贪心思路往往渗透到各种题目中，根据模型和结构不同，通常分为<strong>散点</strong>、<strong>线段</strong>和<strong>树</strong>模型。  </p><h3 id="散点贪心"><a href="#散点贪心" class="headerlink" title="散点贪心"></a>散点贪心</h3><p>&emsp;&emsp;散点贪心是贪心的变体，通常用于解决离散点和离散事件的最优化问题。它的核心思想是在离散的点或事件上做出局部最优选择，从而逼近全局最优解。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>贪心一</title>
     <link href="/2025/06/16/%E8%B4%AA%E5%BF%83%E4%B8%80/"/>
     <url>/2025/06/16/%E8%B4%AA%E5%BF%83%E4%B8%80/</url>
